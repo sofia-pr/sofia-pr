@@ -1,4 +1,4 @@
-## Hey, I'm Sofia! 👋 👩‍💻
+## Hey, I'm Sofía! 👋 👩‍💻
 <a href="https://www.linkedin.com/in/sofia-punal-rizzo/">
   <img  align="left" alt="Sofia's LinkdeIN" width="15px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 <br />
 <br />
-Hi, I'm Sofia, a Front-End Developer 🚀 from Argentina. I became passionate about learning web development and building delightful and scalable web applications. I am always eager to face professional challenges and learn new things to do a great job!
+Hi, I'm Sofía, a Front-End Developer 🚀 from Argentina. I became passionate about learning web development and building delightful and scalable web applications. I am always eager to face professional challenges and learn new things to do a great job!
 <br />
 <br />
 
