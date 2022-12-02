@@ -33,7 +33,7 @@ Hi, I'm Sofía, a Front-End Developer 🚀 from Argentina. I became passionate a
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-pr&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-pr&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sofia-pr/sofia-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
