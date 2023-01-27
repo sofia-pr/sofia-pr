@@ -16,7 +16,7 @@
 </a>
 <br />
 <br />
-Hi, I'm Sofía, a Front-End Developer 🚀 from Argentina. I became passionate about learning web development and building delightful and scalable web applications. I would love to work on things that improve a lot of people's life ❤️. I am always eager to face professional challenges and learn new things to do a great job!
+Hi, I'm Sofía, industrial engineer and Front-End Developer 🚀 from Argentina. I became passionate about learning web development and building delightful and scalable web applications. I would love to work on things that improve a lot of people's life ❤️. I am always eager to face professional challenges and learn new things to do a great job!
 <br />
 <br />
 
