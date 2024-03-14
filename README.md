@@ -1,5 +1,5 @@
 ## Hey, I'm Sofía! 👋 👩‍💻
-<a href="https://www.linkedin.com/in/sofia-punal-rizzo/">
+<a href="https://www.linkedin.com/in/sofia-punal/">
   <img  align="left" alt="Sofia's LinkdeIN" width="15px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://discord.com/users/sofiapunal" rel="nofollow">
